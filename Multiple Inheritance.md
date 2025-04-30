@@ -24,7 +24,7 @@ To write a Python program to get the name, attendance, and ID of a student and c
 10. Terminate the program.
 
 ### PROGRAM
-```
+```python
 class Student:
     def __init__(self, name, student_id):
         self.name = name
