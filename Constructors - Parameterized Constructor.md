@@ -23,7 +23,7 @@ To write a Python code to create a class for a employee with a parameterized con
 
 ### PROGRAM
 
-```
+```python
 class employees:
     def __init__(self,a,b):
         self.a=a
