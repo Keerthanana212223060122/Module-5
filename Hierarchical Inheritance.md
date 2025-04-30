@@ -27,7 +27,7 @@ To write a Python program to get the employee and doctor details and display the
 ---
 
 ### PROGRAM
-```
+```python
 # hierarchical inheritance
 
 class Details:
